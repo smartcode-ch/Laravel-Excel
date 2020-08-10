@@ -17,10 +17,13 @@
       "email": "patrick@maatwebsite.nl"
     }
   ],
-  {
+  "repositories": [
+      {
       "type": "vcs",
       "url": "https://github.com/smartcode-ch/PHPExcel"
     }
+  ],
+
   "require": {
     "php": ">=5.5",
     "phpoffice/phpexcel": "dev-php-7.4",
