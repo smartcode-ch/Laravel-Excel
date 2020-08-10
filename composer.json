@@ -18,15 +18,14 @@
     }
   ],
   "repositories": [
-      {
+    {
       "type": "vcs",
       "url": "https://github.com/smartcode-ch/PHPExcel"
     }
   ],
-
   "require": {
     "php": ">=5.5",
-    "phpoffice/phpexcel": "dev-php-7.4",
+    "phpoffice/phpexcel": "dev-php-7.2",
     "jeremeamia/superclosure": "^2.3",
     "tijsverkoyen/css-to-inline-styles": "~2.0"
   },
